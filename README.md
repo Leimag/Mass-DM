@@ -4,8 +4,8 @@ I DO NOT TAKE ANY RESPONSIBILITIES IF YOU GET BANNED FROM DISCORD.
 
 MODULES:
 
-JSON
-COLORAMA (pip install colorama)
-TIME
+JSON,
+COLORAMA, (pip install colorama)
+TIME,
 PY-CORD (pip install py-cord)
 
